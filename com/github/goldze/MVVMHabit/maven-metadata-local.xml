@@ -3,9 +3,9 @@
   <groupId>com.github.goldze</groupId>
   <artifactId>MVVMHabit</artifactId>
   <versioning>
-    <release>4.0.0</release>
+    <release>4.0.0-fix</release>
     <versions>
-      <version>4.0.0</version>
+      <version>4.0.0-fix</version>
     </versions>
     <lastUpdated>20240502024919</lastUpdated>
   </versioning>
