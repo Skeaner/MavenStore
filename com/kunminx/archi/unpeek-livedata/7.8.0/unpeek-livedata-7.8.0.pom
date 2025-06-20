@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.kunminx.archi</groupId>
+  <artifactId>unpeek-livedata</artifactId>
+  <version>7.8.0</version>
+  <packaging>aar</packaging>
+  <name>unpeek-livedata</name>
+  <description>Perfect alternative to SingleLiveEvent, supporting multiple observers.</description>
+  <url>https://github.com/KunMinX/UnPeek-LiveData</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>KunMinX</id>
+      <name>KunMinX</name>
+      <email>kunminx@gmail.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:github.com/KunMinX/UnPeek-LiveData.git</connection>
+    <developerConnection>scm:git:ssh://github.com/KunMinX/UnPeek-LiveData.git</developerConnection>
+    <url>https://github.com/KunMinX/UnPeek-LiveData/tree/master</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <artifactId>lifecycle-livedata</artifactId>
+      <groupId>androidx.lifecycle</groupId>
+      <version>2.4.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>annotations</artifactId>
+      <groupId>org.jetbrains</groupId>
+      <version>23.0.0</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
