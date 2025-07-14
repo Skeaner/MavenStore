@@ -3,7 +3,7 @@
   <groupId>com.xuxueli</groupId>
   <artifactId>xxl-job-core</artifactId>
   <versioning>
-    <lastUpdated>20250714011635</lastUpdated>
+    <lastUpdated>20250714012312</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>2.4.1-SNAPSHOT</value>
-        <updated>20250714011635</updated>
+        <updated>20250714012312</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>2.4.1-SNAPSHOT</value>
-        <updated>20250714011635</updated>
+        <updated>20250714012312</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
